@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do WhatsApp Web JS
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+
+# Arquivos de sistema do VSCode (opcional)
+.vscode/
+
+# Outros arquivos temporários
+*.log
+*.tmp
+.DS_Store
